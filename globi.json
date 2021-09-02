@@ -2,7 +2,7 @@
   "doi": "http://dx.doi.org/10.5061/dryad.nv5d2",
   "format": "szoboszlai",
   "resources": {
-    "links": "http://datadryad.org/bitstream/handle/10255/dryad.94536/CCPDDlinkdata_v1.csv",
-    "shapes": "http://datadryad.org/bitstream/handle/10255/dryad.94535/CCPDDlocationdata_v1.zip"
+    "links": "https://datadryad.org/stash/downloads/file_stream/91651",
+    "shapes": "https://datadryad.org/stash/downloads/file_stream/91649"
   }
 }
